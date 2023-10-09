@@ -28,3 +28,6 @@
 ### email : admin@example.com
 
 ### password : password
+
+## Credit
+[Diagnosa Tingkat Depresi Mahasiswa Tingkat Akhir](https://github.com/Andrian17/sistem-pakar)
